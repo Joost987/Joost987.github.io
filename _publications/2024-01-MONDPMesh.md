@@ -8,8 +8,9 @@ venue: 'Astronomy & Astrophysics'
 paperurl: 'https://doi.org/10.1051/0004-6361/202347830'
 ---
 
-***Abstract***: 
 
+
+***Abstract***: 
 *Context*. Modified Newtonian dynamics (MOND) is a promising alternative to dark matter. To further test the theory, there is a need for fluid- and particle-dynamics simulations. The force in MOND is not a direct particle-particle interaction, but derives from a potential for which a nonlinear partial differential equation (PDE) needs to be solved. Normally, this makes the problem of simulating dynamical evolution computationally expensive.
 
 *Aims*. We intend to develop a fast particle-mesh (PM) code for MOND (the AQUAL formalism).
