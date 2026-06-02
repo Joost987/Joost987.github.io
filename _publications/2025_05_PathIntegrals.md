@@ -1,7 +1,7 @@
 ---
 title: "Path-Integral Approach to Quantum Acoustics"
-collection: publications
-category: preprints
+collection: preprints
+category: manuscript
 date: 2024-05-01
 venue: 'Arxiv'
 paperurl: 'https://arxiv.org/abs/2505.00861'
