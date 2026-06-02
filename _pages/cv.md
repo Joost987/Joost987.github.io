@@ -11,35 +11,21 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.Sc. in Applied Mathematics, Delft University of Technology, expected 2026
+* M.Sc. in Applied Physics, Delft University of Technology, expected 2026
+* B.Sc. in Applied Mathematics, Delft University of Technology, 2023
+* B.Sc. in Applied Physics, Delft University of Technology, 2023
 
-Work experience
+Teaching experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* September 2021 - July 2023: Teaching Assistant
+  * Delft University of Technology
+  * Duties included: Grading exams and assisting students at seminars
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python, including packages such as NumPy, SymPy, CuPy and Jax
+* C++
 
 Publications
 ======
@@ -53,11 +39,7 @@ Talks
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
   
 Service and leadership
 ======
