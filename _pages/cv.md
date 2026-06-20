@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* M.Sc. in Applied Mathematics, Delft University of Technology, expected 2026
-* M.Sc. in Applied Physics, Delft University of Technology, expected 2026
-* B.Sc. in Applied Mathematics, Delft University of Technology, 2023
+* M.Sc. in Applied Mathematics (cum laude), Delft University of Technology, 2026
+* M.Sc. in Applied Physics (expected cum laude), Delft University of Technology, 2026
+* B.Sc. in Applied Mathematics (cum laude), Delft University of Technology, 2023
 * B.Sc. in Applied Physics, Delft University of Technology, 2023
 
 Teaching experience
