@@ -6,7 +6,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-***This webpage is still under construction***
 
 Hi! I am Joost de Nijs, a recent double Master of Science graduate from Delft University in Applied Mathematics and Applied Physics. Currently I am looking for a PhD position in Mathematics,  so if you know of an open position that aligns with my interests, please let me know. 
 
