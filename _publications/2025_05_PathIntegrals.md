@@ -1,10 +1,10 @@
 ---
 title: "Path-Integral Approach to Quantum Acoustics"
 collection: publications
-category: preprints
-date: 2024-05-01
-venue: 'Arxiv'
-paperurl: 'https://arxiv.org/abs/2505.00861'
+category: publications
+date: 2026-08-31
+venue: 'Physical Review B'
+paperurl: 'https://doi.org/10.1103/8y23-m2mq'
 ---
 
 ***Abstract***: A path-integral approach to quantum acoustics is developed here. In contrast to the commonly
