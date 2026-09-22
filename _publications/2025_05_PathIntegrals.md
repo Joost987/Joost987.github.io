@@ -1,7 +1,7 @@
 ---
 title: "Path-Integral Approach to Quantum Acoustics"
 collection: publications
-category: publications
+category: manuscripts
 date: 2026-08-31
 venue: 'Physical Review B'
 paperurl: 'https://doi.org/10.1103/8y23-m2mq'
